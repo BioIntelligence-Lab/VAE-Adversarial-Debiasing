@@ -1,6 +1,6 @@
 # VAE-Adversarial-Debiasing
 
-This is the GitHub repo for our paper submission to MIDL 2025: Towards Fair Medical AI: Adversarial Debiasing of 3D CT Foundation Embeddings.
+This is the GitHub repo for our paper submission to MIDL 2025: Towards Fair Medical AI: Adversarial Debiasing of 3D CT Foundation Embeddings. (https://openreview.net/forum?id=pv1D6CWgrY)
 
 This repo has a jupyter notebook file that includes everything needed to reproduce our results, except the NLST dataset, which can be accessed through Google's CT Foundation Tool https://research.google/blog/taking-medical-imaging-embeddings-3d/
 
