@@ -4,6 +4,7 @@ This is the GitHub repo for our paper submission to MIDL 2025: Towards Fair Medi
 
 This repo has a jupyter notebook file that includes everything needed to reproduce our results, except the NLST dataset, which can be accessed through Google's CT Foundation Tool https://research.google/blog/taking-medical-imaging-embeddings-3d/
 
+## Abstract
 
 Self-supervised learning has revolutionized medical imaging by enabling efficient and generalizable feature extraction from large-scale unlabeled datasets. Recently, self-supervised foundation models have been extended to three-dimensional (3D) computed tomography (CT) data, generating compact, information-rich embeddings with 1408 features that achieve state-of-the-art performance on downstream tasks such as intracranial hemorrhage detection and lung cancer risk forecasting. However, these embeddings have been shown to encode demographic information, such as age, sex, and race, which poses a significant risk to the fairness of clinical applications.
 
