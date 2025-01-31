@@ -11,5 +11,7 @@ In this work, we propose a Variation Autoencoder (VAE) based adversarial debiasi
 
 ![VAE Adversarial Debiasing Concept](VAE Adversarial Debias Concept.png)
 
+*Conceptual illustration of our framework. The original 3D CT Foundation Model embedding encodes demographic information, which can lead to bias in downstream tasks. Our VAE can debias multiple demographic information while preserving downstream task performance.*
+
 
 
