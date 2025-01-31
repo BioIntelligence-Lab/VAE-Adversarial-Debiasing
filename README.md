@@ -9,7 +9,7 @@ Self-supervised learning has revolutionized medical imaging by enabling efficien
 
 In this work, we propose a Variation Autoencoder (VAE) based adversarial debiasing framework to transform these embeddings into a new latent space where demographic information is no longer encoded, while maintaining the performance of critical downstream tasks. We validated our approach on the NLST lung cancer screening dataset, demonstrating that the debiased embeddings effectively eliminate multiple encoded demographic information and improve fairness without compromising predictive accuracy for lung cancer risk at 1-year and 2-year intervals. Additionally, our approach ensures the embeddings are robust against adversarial bias attacks. These results highlight the potential of adversarial debiasing techniques to ensure fairness and equity in clinical applications of self-supervised 3D CT embeddings, paving the way for their broader adoption in unbiased medical decision-making.
 
-![VAE Adversarial Debiasing Concept](VAE Adversarial Debias Concept.png)
+![VAE Adversarial Debiasing Concept](VAE_Adversarial_Debias_Concept.png)
 
 *Conceptual illustration of our framework. The original 3D CT Foundation Model embedding encodes demographic information, which can lead to bias in downstream tasks. Our VAE can debias multiple demographic information while preserving downstream task performance.*
 
